@@ -1,2 +1,2 @@
 # YogAI
-The Personalized Yoga Teacher
+The Personalized AI Yoga Teacher
